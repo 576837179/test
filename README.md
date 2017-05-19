@@ -18,7 +18,7 @@ document.getElementById("ts").innerHTML="Hello"
 ![baidu](http://www.baidu.com/img/bdlogo.gif)<br>
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")<br>
 ![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif "爱你")<br>
-[![baidu]](http://baidu.com)  
+[![baidu]](http://baidu.com)
 [baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
 
 
