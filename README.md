@@ -1,6 +1,9 @@
 test
 =
-辉哥哥的第一个demo，弄完就删啦
+[![Coverage Status](https://coveralls.io/repos/github/expressjs/express/badge.svg?branch=master)](https://coveralls.io/github/expressjs/express?branch=master)
+[![Build Status](https://travis-ci.org/meolu/walden.svg?branch=master)](https://travis-ci.org/meolu/walden)
+-
+很屌的LOGO
 test1
 -
 ```Java
